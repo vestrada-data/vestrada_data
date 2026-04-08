@@ -5,15 +5,15 @@
 ### About me:
 🔭 I’m currently working on strengthening my profile to face new professional challenges.
 
-🌱 I’m currently learning and practicing SQL and Python.
+🌱 I’m currently practicing SQL and also  learning Python.
 
-❤️ I love implementing new automations to save time.
+⚡ I enjoy implementing new automations to save time.
 
-⚡ Fun fact: Amateur writter.
+❤️ Fun fact: Amateur writter. 
 
 📫 How to reach me: veroerobles@gmail.com
 
-[LinkedIn](https://linkedin.com/in/veroestradarobles) | [Projects](https://github.com/vero-datadata_analytics))
+[LinkedIn](https://linkedin.com/in/veroestradarobles) | [Projects](https://github.com/vero-datadata_analytics)
 
 ### Technical Skills:
 
