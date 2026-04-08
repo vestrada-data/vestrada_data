@@ -1,7 +1,7 @@
 # vestrada_data
-My personal repository
+
 # ¡Hola! Soy Verónica Estrada 👋
-**Ingeniera en Computación | Junior Data Analyst | Especialista en SQL, Python y Excel**
+**Ingeniera en Computación | Junior Data Analyst | SQL, Python y Excel**
 
 Apasionada por transformar datos crudos en decisiones estratégicas. Mi enfoque combina la ingeniería de sistemas con el análisis exploratorio de datos (EDA) para optimizar procesos operativos.
 
