@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-## About me:
+### About me:
 🔭 I’m currently working on strengthening my profile to face new professional challenges.
 
 🌱 I’m currently learning and practicing SQL and Python.
@@ -13,9 +13,9 @@
 
 📫 How to reach me: veroerobles@gmail.com
 
-[LinkedIn](linkedin.com/in/veroestradarobles) | [Portafolio Web]((https://github.com/vero-datadata_analytics))
+[LinkedIn](https://linkedin.com/in/veroestradarobles) | [Projects](https://github.com/vero-datadata_analytics))
 
-## Technical Skills:
+### Technical Skills:
 
 ![Python](https://img.shields.io/badge/PYTHON-00599C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
